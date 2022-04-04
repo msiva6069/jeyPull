@@ -16,6 +16,18 @@ public class GitPull {
 		System.out.println("method 4");
 		}
 	
+	public void method5() {
+		System.out.println("method 5");
+		}
+	public void method6() {
+		System.out.println("method 6");
+		}
+	public void method7() {
+		System.out.println("method 7");
+		}
+	public void method8() {
+		System.out.println("method 8");
+		}
 	
 	
 	
